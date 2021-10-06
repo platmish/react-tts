@@ -1,0 +1,19 @@
+.nav {
+    grid-area: n;
+    background-color: white;
+}
+
+.item {
+    color: #3376BC;
+    font-weight: 500;
+}
+
+.active {
+    color: #3376BC;
+    text-decoration: underline;
+    font-weight: 500;
+}
+
+.hover {
+
+}
